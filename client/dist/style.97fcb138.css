@@ -1,0 +1,20 @@
+.bt {
+  background-color: aqua;
+  border: 1px solid;
+  border-radius: 4px;
+  width: 200px;
+  height: 50px;
+  transition-duration: 0.8s;
+  font-weight: bold;
+  margin-top: 20px;
+  font-size: large;
+}
+.bt:hover {
+  background-color: red;
+  transition-duration: 0.8s;
+  cursor: pointer;
+  color: white;
+  border-color: black;
+}
+
+/*# sourceMappingURL=/style.97fcb138.css.map */
